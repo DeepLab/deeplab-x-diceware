@@ -1,6 +1,6 @@
 ### DeepLab x Diceware
 
-Simply, `python dicewarez.py`.
+Simply run `python dicewarez.py` and behold.
 
 #### Custom wordlists?
 
